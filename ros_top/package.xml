@@ -10,6 +10,7 @@
   <author email="dan@lazewatsky.com">Dan Lazewatsky</author>
   <depend>computer_msgs</depend>
   <depend>rclpy</depend>
+  <depend>std_msgs</depend>
   <exec_depend>python3-psutil</exec_depend>
   <export>
     <build_type>ament_python</build_type>
